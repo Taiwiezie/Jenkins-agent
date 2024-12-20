@@ -1,0 +1,16 @@
+annotated-types
+ansible-compat
+ansible-core
+ansible-lint
+cryptography
+Jinja2
+jsonschema
+jsonschema-specifications
+packaging
+PyYAML
+setuptools
+toml
+typing_extensions
+wcmatch
+yamlfix
+yamllint
